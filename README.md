@@ -9,5 +9,5 @@ yeah please ignore my mistakes if possible. very noob.
 What could you possibly expect!?
 
 
-Data Analyst Target:
-https://roadmap.sh/data-analyst?s=67485d73503943107537b288
+# Update
+Doing Pentesting--let's hope I don't break the world doing this
